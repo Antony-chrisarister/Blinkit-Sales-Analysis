@@ -25,7 +25,7 @@ Blinkit Sales Dashboard (Power BI Project)  This Power BI project visualizes sal
 - ## 🛠️ How to Use
 
 1. Clone the repository:
-2. 2. Open the `.pbix` file in Power BI Desktop.
+2. Open the `https://github.com/Antony-chrisarister/Blinkit-Sales-Analysis/commit/aa4693ceaf8581dd7b1fbd8bab3187f966d45fc6` file in Power BI Desktop.
 3. Explore and interact with the visualizations.
 
 ## 🧠 Learnings
