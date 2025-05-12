@@ -19,7 +19,7 @@ Blinkit Sales Dashboard (Power BI Project)  This Power BI project visualizes sal
 ## 📁 Files Included
 
 - `BlinkitDashboard.pbix` – Power BI Dashboard File
-- `images/dashboard.png` – Screenshot of the dashboard
+- `https://github.com/Antony-chrisarister/Blinkit-Sales-Analysis/commit/77ae51fb4757d18e5ea6411c1f735eea918965af` – Screenshot of the dashboard
 - `README.md` – Project documentation
 
 - ## 🛠️ How to Use
